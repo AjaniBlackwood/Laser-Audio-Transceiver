@@ -7,7 +7,7 @@ The Transmitter
 ![transmitter](https://user-images.githubusercontent.com/65378020/118413256-55f86f00-b66c-11eb-9ad4-0948c46e41ce.jpg)
 
 
-The receiver 
+The Receiver 
 
 ![receiver](https://user-images.githubusercontent.com/65378020/118413572-06b33e00-b66e-11eb-8ade-971f994af8f2.jpg)
 
