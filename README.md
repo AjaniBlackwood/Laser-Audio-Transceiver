@@ -16,5 +16,4 @@ The transmitter circuit was designed to take music input from a smartphone and a
 
 ![image](https://user-images.githubusercontent.com/79022138/118696625-7a735900-b7dc-11eb-8bef-846294c9bcc6.png)
 
-![image](https://user-images.githubusercontent.com/79022138/118696783-a2fb5300-b7dc-11eb-9ca6-7759f1adb3d1.png)
 
